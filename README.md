@@ -8,6 +8,7 @@
 ***
 This is a finance calculators programm where the user can choose between investement or bond.
 
+
 INVESTEMENT:
 
 When investement is choosen the program returns the monthly repayment amount for the choosen capital, interest rate and number of months.
@@ -16,6 +17,7 @@ The app asks you the following:
 * The interest rate 
 * How many years for the investment
 * If apply simple or compound interest
+
 
 BOND: 
 
